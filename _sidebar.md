@@ -2,3 +2,4 @@
 * [Set Up](setup.md)
 * [Functions](functions.md)
 * [Constants](constants.md)
+* [Examples](examples.md)
